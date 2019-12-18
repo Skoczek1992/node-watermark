@@ -1,0 +1,12 @@
+{
+  "name": "node-js-watermark",
+  "version": "1.0",
+  "description": "case",
+  "main": "app.js",
+  "author": "Skoczek1992",
+  "private": true,
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
